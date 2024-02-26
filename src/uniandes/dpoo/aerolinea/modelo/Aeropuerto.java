@@ -30,7 +30,31 @@ public class Aeropuerto
     	this.longitud = longitud;
     }
     
-    public 
+    public static String getNombre()
+    {
+    	return null;
+    }
+    
+    public static String getCodigo()
+    {
+    	return null;
+    }
+    
+    public static String getNombreCiudad()
+    {
+    	return null;
+    }
+    
+    public static double getLatitud()
+    {
+    	return 0;
+    }
+    
+    public static double getLongitud ()
+    {
+    	return 0;
+    }
+    
 
     /**
      * Este método calcula la distancia *aproximada* entre dos aeropuertos. Hay fórmulas más precisas pero esta es suficientemente buena para el caso de la aerolínea.
